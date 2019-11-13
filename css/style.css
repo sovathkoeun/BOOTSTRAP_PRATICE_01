@@ -1,0 +1,23 @@
+
+  @media only screen and (max-width: 576px) {
+    .col-md-6 {
+        flex: 100%;
+       }
+    }
+  @media screen and (min-width: 576px) and (max-width: 992px) {
+    .col-md-6 {
+      flex: 100%;
+     }
+  }
+
+  body {  margin: 0; padding: 0; }
+  
+  #header {background: #000; padding: 5%; }
+  #bg {background: blue;  margin-top: -40px; padding: 10px; color: #fff;  }
+    
+  .ph { margin-left: px;}
+  
+  #b {
+    margin-left: 5px;
+    margin-top: 10px;
+  }
